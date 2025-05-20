@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "inecolr"]
+	path = inecolr
+	url = https://github.com/cran/inecolr
 [submodule "octopucs"]
 	path = octopucs
 	url = https://github.com/cran/octopucs
